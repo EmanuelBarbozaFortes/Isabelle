@@ -28,12 +28,12 @@ main p{
     font-size: 22px;
 }
 main strong{
-    color: red;
+    color: rgb(226, 13, 13);
 }
 
 body{
    width: 100%; 
-   background: url(../img/1234.jpg) top no-repeat;
+   background: url(../img/nyc-13.jpg) top no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -97,9 +97,9 @@ body{
     margin-bottom: 50px;
 }
 .galeria{
-    border: solid rgb(13, 23, 93);
+    border: solid rgb(93, 25, 13);
     padding:20px;
-    background: linear-gradient( to bottom, rgb(255, 255, 255), rgb(255, 255, 255));
+    background: linear-gradient( to bottom, rgb(214, 183, 183), rgb(255, 255, 255));
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-radius: 20px;
